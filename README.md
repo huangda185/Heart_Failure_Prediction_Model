@@ -18,9 +18,16 @@ Focus on certains attributes that plays a bigger role in increased risk.
 People who are likely to have heart disease can get preventive treatment or lifestyle modification.
 
 #### Data Sources
-Heart Failure Prediction Dataset that includes 11 clinical features for predicting heart disease events.
+Heart Failure Prediction Dataset that includes 11 clinical features for predicting heart failures.
 Source of the data was provided by Kaggle
 https://www.kaggle.com/datasets/fedesoriano/heart-failure-prediction/data
+
+Description of Files
+'data' - Dataset that includes 11 clinical features for predicting heart failures.
+
+
+
+'heart_failure.ipynb' - this file contains the code that compares the different classifying models.
 
 #### Methodology
 Compare different classifers and their accuracy scores to determine what is the best classifer to help predict if a patient will develop heart disease.
