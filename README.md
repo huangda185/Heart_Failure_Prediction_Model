@@ -46,3 +46,4 @@ Also review and determine what are the best features that attributes to a likely
 
 #### Next steps
 Narrow data features to focus more on those that have high co_eff that affects target feature.
+Analyze precision, recall, and F1-score for each model as well.
